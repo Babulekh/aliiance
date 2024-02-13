@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  background: rgb(73, 102, 164);
+}
+
+main {
+  display: flex;
+  max-width: 80%;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+section {
+  padding-top: 40px;
+}
+
+.hero {
+  max-width: 400px;
+}
+
+footer {
+  margin-top: 100px;
+  padding: 40px 0;
+  background: rgb(34, 47, 77);
+}
+
+.bold {
+  font-weight: 700;
+}
